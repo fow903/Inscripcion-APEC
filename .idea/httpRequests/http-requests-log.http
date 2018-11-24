@@ -1,0 +1,166 @@
+POST http://localhost:8000/api/horarios/5/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-23T061219.200.json
+
+###
+
+POST http://localhost:8000/api/horarios/5/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-23T061050.200.json
+
+###
+
+POST http://localhost:8000/api/horarios/5/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-23T060159.200.json
+
+###
+
+POST http://localhost:8000/api/horarios/1/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-23T060153.200.json
+
+###
+
+POST http://localhost:8000/api/horarios/1/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-23T060149.200.json
+
+###
+
+POST http://localhost:8000/api/horarios/1/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-23T060130.200.json
+
+###
+
+POST http://localhost:8000/api/horarios/1/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-23T060025.200.json
+
+###
+
+POST http://localhost:8000/api/horarios/1/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-23T055957.200.json
+
+###
+
+POST http://localhost:8000/api/horarios/1/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-23T055910.500.html
+
+###
+
+POST http://localhost:8000/api/horarios/1/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-23T055824.500.html
+
+###
+
+POST http://localhost:8000/api/horarios/1/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-23T055525.403.html
+
+###
+
+GET http://localhost:8000/api/horarios/1/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-23T055511.200.json
+
+###
+
+GET http://0.0.0.0:8000/api/horarios/1/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://0.0.0.0:8000/api/horarios/1/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://0.0.0.0:8000/api/horarios/1/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://0.0.0.0:8000/horarios/1/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8000/horarios/1/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-23T055353.404.html
+
+###
+
+GET http://localhost:8000/horarios/1/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-23T055320.404.html
+
+###
+
+POST http://localhost:8000/horarios/1/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-23T055311.404.html
+
+###
+
+POST http://localhost:8000/horarios/1/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-23T055309.404.html
+
+###
+
+POST http://localhost:8000/resources
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-11-23T055254.404.html
+
+###
+
+POST http://localhost:800/resources
+Accept: */*
+Cache-Control: no-cache
+
+###
+
